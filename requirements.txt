@@ -1,0 +1,7 @@
+phidata
+yfinance
+python-dotenv
+fpdf
+DuckDuckGo
+logging
+phi
